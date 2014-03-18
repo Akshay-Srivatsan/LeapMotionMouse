@@ -1,5 +1,5 @@
 //This program should move the mouse according to the fingers of the user
-//It features:
+//It features the following actions:
 //Movement
 //Click
 //Right click
